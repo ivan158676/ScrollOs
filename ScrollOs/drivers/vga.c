@@ -1,4 +1,5 @@
 #include <stdint.h>
+#include "font.h"
 
 // Режимы
 #define MODE_VBE  1
